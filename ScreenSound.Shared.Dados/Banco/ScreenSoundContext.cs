@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using ScreenSound.Modelos;
+using ScreenSound.Shared.Dados.Modelos;
 using ScreenSound.Shared.Modelos.Modelos;
 using System;
 using System.Collections.Generic;
